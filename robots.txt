@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roblindsay24.github.io/ai-workflow-audit-kit-landing/sitemap.xml
